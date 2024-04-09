@@ -1,0 +1,2 @@
+Angular es un framework de JavaScript de tipo open source, es decir de código abierto, desarrollado por Google. Se utiliza en la creación y programación de aplicaciones web de una sola página.
+Angular framework se utiliza para crear y mantener aplicaciones web de una sola página. De hecho, muchas empresas de primer nivel y de tipo mundial, como Google, Nike, Upwork, HBO y otras, usan Angular.
